@@ -1,3 +1,6 @@
+-- [[
+    I love yall <3
+--]]
 local Url = "https://raw.githubusercontent.com/Yummy-1z/Yum-Hub/refs/heads/main/Charts/"
 local Charts = {
     -- [ Speed Piece ] --
